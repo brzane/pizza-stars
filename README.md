@@ -1,6 +1,6 @@
 # Pizza Stars
 ## Overview
-pizza stars is pizza restaurant landing page built with HTML , CSS , Bootstrap , JS , JQUERY  with moden responsive design we thank bootsrap for that :)<br>
+pizza stars is pizza restaurant landing page built with HTML , CSS , Bootstrap , JS , JQUERY  with moden responsive design we thank bootstrap for that :)<br>
 check out the website through this link : https://pizza-stars.netlify.app/
 ## What this project contains
 1- Header section with a facny slider (Slick.js)<br>
